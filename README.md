@@ -1,7 +1,8 @@
 # Hyacinthe Chemasle
 
-Full stack developer at Datacom. CS student at Victoria University of Wellington.
-Building things at the edge of aviation, security, and data.
+Full stack developer at Datacom
+
+Love the intersection of software and machine learning methods in augmenting existing applications especially within Aviation Technology.
 
 <br>
 
